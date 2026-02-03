@@ -1,6 +1,11 @@
 import re
 from urllib.parse import urlparse, urljoin, urldefrag, parse_qs, urlunparse
 from bs4 import BeautifulSoup
+from collections import Counter, defaultdict
+
+word_counts = Counter()
+longest_page = ("", 0)
+
 
 ALLOWED_DOMAINS = (
     "ics.uci.edu",
@@ -55,6 +60,60 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content (the page)
+    # analytics in function bc only successful HTML pages needs to be fetched
+    if resp is None or resp.status != 200 or resp.raw_response is None:
+        return []
+
+    raw = resp.raw_response
+    content = raw.content
+    if not content:
+        return []
+
+    ctype = raw.headers.get("Content-Type", "").lower()
+    if "text/html" not in ctype and "application/xhtml+xml" not in ctype:
+        return []
+
+    cl = raw.headers.get("Content-Length")
+    if cl and cl.isdigit() and int(cl) > 5_000_000:
+        return []
+
+    # PARSE HTML
+    soup = BeautifulSoup(content, "lxml")
+
+    # TEXT ANALYTICS (THIS IS WHERE YOUR CODE GOES)
+    text = soup.get_text(separator=" ")
+    words = re.findall(r"[a-zA-Z]+", text.lower())
+
+    # load stopwords
+    with open("stopwords.txt") as f:
+        stopwords = set(w.strip() for w in f)
+
+    filtered = [w for w in words if w not in stopwords]
+
+    # update global word counts
+    word_counts.update(filtered)
+
+    # update longest page
+    global longest_page
+    if len(filtered) > longest_page[1]:
+        longest_page = (url, len(filtered))
+
+    # LINK EXTRACTION
+    links = []
+    base_url = raw.url if raw.url else url
+
+    for a in soup.find_all("a", href=True):
+        href = a.get("href").strip()
+
+        if href.startswith(("mailto:", "tel:", "javascript:")):
+            continue
+
+        abs_url = urljoin(base_url, href)
+        links.append(abs_url)
+
+    return links
+
+
     
     # only process successful pages
     if resp is None or resp.status != 200 or resp.raw_response is None:
