@@ -5,6 +5,8 @@ from collections import Counter, defaultdict
 
 word_counts = Counter()
 longest_page = ("", 0)
+unique_urls = set()
+subdomain_counts = defaultdict(int)
 
 
 ALLOWED_DOMAINS = (
@@ -49,18 +51,15 @@ def scraper(url, resp):
 
     return out
 
+try:
+    with open("stopwords.txt") as f:
+        STOPWORDS = set(w.strip().lower() for w in f)
+except FileNotFoundError:
+    print("Warning: stopwords.txt not found!")
+    STOPWORDS = set()
 
 def extract_next_links(url, resp):
-    # Implementation required.
-    # url: the URL that was used to get the page
-    # resp.url: the actual url of the page
-    # resp.status: the status code returned by the server. 200 is OK, you got the page. Other numbers mean that there was some kind of problem.
-    # resp.error: when status is not 200, you can check the error here, if needed.
-    # resp.raw_response: this is where the page actually is. More specifically, the raw_response has two parts:
-    #         resp.raw_response.url: the url, again
-    #         resp.raw_response.content: the content of the page!
-    # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content (the page)
-    # analytics in function bc only successful HTML pages needs to be fetched
+    # 1. Validation: Only process successful HTML pages
     if resp is None or resp.status != 200 or resp.raw_response is None:
         return []
 
@@ -73,89 +72,45 @@ def extract_next_links(url, resp):
     if "text/html" not in ctype and "application/xhtml+xml" not in ctype:
         return []
 
-    cl = raw.headers.get("Content-Length")
-    if cl and cl.isdigit() and int(cl) > 5_000_000:
-        return []
-
-    # PARSE HTML
+    # 2. Defragment and check uniqueness
+    clean_url, _ = urldefrag(url)
+    
+    # We need soup for both analytics AND link extraction
     soup = BeautifulSoup(content, "lxml")
 
-    # TEXT ANALYTICS (THIS IS WHERE YOUR CODE GOES)
-    text = soup.get_text(separator=" ")
-    words = re.findall(r"[a-zA-Z]+", text.lower())
+    if clean_url not in unique_urls:
+        unique_urls.add(clean_url)
+        
+        # Track subdomains (Q4)
+        hostname = urlparse(clean_url).hostname
+        if hostname and hostname.endswith(".uci.edu"):
+            subdomain_counts[hostname.lower()] += 1
 
-    # load stopwords
-    with open("stopwords.txt") as f:
-        stopwords = set(w.strip() for w in f)
+        # Text Analytics (Q2 & Q3)
+        text = soup.get_text(separator=" ")
+        words = re.findall(r"[a-zA-Z]+", text.lower())
+        filtered = [w for w in words if w not in STOPWORDS and len(w) > 1]
+        
+        word_counts.update(filtered)
+        
+        global longest_page
+        if len(filtered) > longest_page[1]:
+            longest_page = (clean_url, len(filtered))
 
-    filtered = [w for w in words if w not in stopwords]
-
-    # update global word counts
-    word_counts.update(filtered)
-
-    # update longest page
-    global longest_page
-    if len(filtered) > longest_page[1]:
-        longest_page = (url, len(filtered))
-
-    # LINK EXTRACTION
+    # 3. Link Extraction
     links = []
     base_url = raw.url if raw.url else url
 
     for a in soup.find_all("a", href=True):
         href = a.get("href").strip()
-
         if href.startswith(("mailto:", "tel:", "javascript:")):
             continue
-
+        
         abs_url = urljoin(base_url, href)
         links.append(abs_url)
 
     return links
 
-
-    
-    # only process successful pages
-    if resp is None or resp.status != 200 or resp.raw_response is None:
-        return []
-
-    raw = resp.raw_response
-    content = raw.content
-    if not content:
-        return []
-
-    # only parse HTML-ish responses; skip downloads like PDFs, images, etc.
-    ctype = raw.headers.get("Content-Type", "").lower()
-    if "text/html" not in ctype and "application/xhtml+xml" not in ctype:
-        return []
-
-    # skip extremely large pages by Content-Length if header exists
-    cl = raw.headers.get("Content-Length")
-    if cl and cl.isdigit() and int(cl) > 5_000_000:  # 5MB
-        return []
-
-    links = []
-
-    # Parse HTML
-    soup = BeautifulSoup(content, "lxml") 
-
-    # use the final resolved URL from raw_response.url for joining relative links
-    base_url = raw.url if raw.url else url
-
-    for a in soup.find_all("a", href=True):
-        href = a.get("href")
-        if not href:
-            continue
-        href = href.strip()
-
-        # skip non-links
-        if href.startswith("mailto:") or href.startswith("tel:") or href.startswith("javascript:"):
-            continue
-
-        abs_url = urljoin(base_url, href)
-        links.append(abs_url)
-
-    return links
 
 # helper function to check for bad query keys
 def has_bad_query(url: str) -> bool:
@@ -210,10 +165,23 @@ def is_valid(url):
         ):
             return False
         
+        path_segments = [s for s in parsed.path.split('/') if s]
+        if len(path_segments) != len(set(path_segments)) or len(path_segments) > 10:
+            return False
+
+
+        # added the len url > 200, trap detection for query / length
         # basic trap keyword checks
         lower_url = url.lower()
-        if any(k in lower_url for k in TRAP_KEYWORDS):
+        if any(k in lower_url for k in TRAP_KEYWORDS) or len(url) > 200:
             return False
+
+
+        qs = parse_qs(parsed.query.replace(";", "&"))
+        if any(k.lower() in BAD_QUERY_KEYS for k in qs):
+            return False
+
+
 
         # query-string sanity checks to avoid infinite spaces
         if parsed.query:
@@ -246,3 +214,29 @@ def is_valid(url):
     except TypeError:
         print ("TypeError for ", parsed)
         raise
+
+    except Exception:
+        return False
+
+
+def print_report():
+    print("\n" + "="*30)
+    print("CRAWLER REPORT SUMMARY")
+    print("="*30)
+    
+    # Q1: Unique Pages
+    print(f"1. Unique pages found: {len(unique_urls)}")
+    
+    # Q2: Longest Page
+    print(f"2. Longest page: {longest_page[0]} ({longest_page[1]} words)")
+    
+    # Q3: 50 Most Common Words
+    print("3. Top 50 words:")
+    for word, count in word_counts.most_common(50):
+        print(f"   {word}: {count}")
+        
+    # Q4: Subdomains
+    print("4. Subdomains found:")
+    for sub, count in sorted(subdomain_counts.items()):
+        print(f"   {sub}, {count}")
+    print("="*30 + "\n")
