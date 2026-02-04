@@ -6,7 +6,9 @@ from collections import Counter, defaultdict
 
 NON_STOPWORD_MIN = 50
 
-log_output = open("logs.txt", "a")          #prints what files were low info skipped
+low_info_output = open("low_info.txt", "a")          #prints what files were low info skipped
+visited_domains_output = open("visited_domains.txt", "a")
+
 
 word_counts = Counter()
 longest_page = ("", 0)
@@ -28,6 +30,9 @@ TRAP_KEYWORDS = (
     "share=",
     "print=",
     "login",
+    "_files",
+    "/events/list",
+    "/all-events",
 )
 
 BAD_QUERY_KEYS = {
@@ -108,8 +113,8 @@ def extract_next_links(url, resp):
 
         is_low_info = low_non_stop_words or not_unique or low_text_ratio
         if is_low_info:
-            print(f"SKIPPED (Low Info): {clean_url}", file=log_output)
-            log_output.flush()
+            print(f"SKIPPED (Low Info): {clean_url}", file=low_info_output)
+            low_info_output.flush()
             pass
         else:
             word_counts.update(filtered)
@@ -165,12 +170,15 @@ def is_valid(url):
     # There are already some conditions that return False.
     try:
         parsed = urlparse(url)
+        path = parsed.path.lower()
         if parsed.scheme not in set(["http", "https"]):
+            print(f"INVALID (Scheme): {url}", file=visited_domains_output)
             return False
         
         # Domain restriction
         host = (parsed.hostname or "").lower()
         if not any(host == d or host.endswith("." + d) for d in ALLOWED_DOMAINS):
+            print(f"REJECTED (Outside Domain): {url}", file=visited_domains_output)
             return False
         
         if re.match(
@@ -181,13 +189,48 @@ def is_valid(url):
             + r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
             + r"|epub|dll|cnf|tgz|sha1"
             + r"|thmx|mso|arff|rtf|jar|csv"
-            + r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", 
+            + r"|rm|smil|wmv|swf|wma|zip|rar|gz"
+            # Added your new extensions here
+            + r"|h|cpp|c|java|py|sh|bat|src|db)$", 
             parsed.path.lower()
         ):
+            print(f"REJECTED (Static File): {url}", file=visited_domains_output)
+            return False
+
+        if re.search(r'/day/\d{4}-\d{2}-\d{2}', path):      #bunch of calendar traps
+            print(f"REJECTED (Calendar Day): {url}", file=visited_domains_output)
+            return False
+        if re.search(r'/day/\d{4}-\d{2}', path):
+            print(f"REJECTED (Calendar Day): {url}", file=visited_domains_output)
+            return False
+        if re.search(r"/\d{4}-\d{2}/", parsed.path) or "ical" in parsed.query.lower():
+            with open("visited_domains.txt", "a") as f:
+                f.write(f"REJECTED (Archive/Calendar): {url}\n")
+            return False
+        if re.search(r'/events/\d{4}-\d{2}-\d{2}', path):
+            print(f"REJECTED (Calendar Day): {url}", file=visited_domains_output)
+            return False
+        if "outlook-ical" in url.lower() or "/day/" in path:
+            print(f"REJECTED (Calendar Day): {url}", file=visited_domains_output)
+            return False
+        if "gitlab.ics.uci.edu" in parsed.hostname:     #traps for gitlab trees and commits
+            return False
+        if "~eppstein/pix" in path or "~eppstein/junkyard" in path:     #humongous photo gallery, low info
+            return False
+
+        path_segments = [s for s in path.split('/') if s]
+        if len(path_segments) != len(set(path_segments)):
+            return False
+
+        # NEW: Catch PowerPoint/Web-Export sub-files
+        # We saw these in your logs (e.g., /Ch3_files/slide0006.htm)
+        if "_files/" in path or "slide" in path:
+            print(f"REJECTED (Office Export): {url}", file=visited_domains_output)
             return False
         
         path_segments = [s for s in parsed.path.split('/') if s]
         if len(path_segments) != len(set(path_segments)) or len(path_segments) > 10:
+            print(f"REJECTED (Repeating Path or Path Too Deep): {url}", file=visited_domains_output)
             return False
 
 
@@ -195,11 +238,13 @@ def is_valid(url):
         # basic trap keyword checks
         lower_url = url.lower()
         if any(k in lower_url for k in TRAP_KEYWORDS) or len(url) > 200:
+            print(f"REJECTED (Trap Keyword or Length > 200): {url}", file=visited_domains_output)
             return False
 
 
         qs = parse_qs(parsed.query.replace(";", "&"))
         if any(k.lower() in BAD_QUERY_KEYS for k in qs):
+            print(f"REJECTED (Bad Query): {url}", file=visited_domains_output)
             return False
 
 
@@ -208,18 +253,21 @@ def is_valid(url):
         if parsed.query:
             # overly long queries are often traps
             if len(parsed.query) > 200:
+                print(f"REJECTED (Query Too Long): {url}", file=visited_domains_output)
                 return False
 
             qs = parse_qs(parsed.query.replace(";", "&"), keep_blank_values=True)
 
             # too many parameters means likely trap???
             if len(qs) > 8:
+                print(f"REJECTED (Too Many Params): {url}", file=visited_domains_output)
                 return False
 
             # avoid excessive paging
             if "page" in qs:
                 for v in qs["page"]:
                     if v.isdigit() and int(v) > 500:
+                        print(f"REJECTED (Excessive Paging): {url}", file=visited_domains_output)
                         return False
 
         # super long URLs are often traps
@@ -228,7 +276,8 @@ def is_valid(url):
         
         if has_bad_query(url):
             return False
-
+        print(f"VALID: {url}", file=visited_domains_output)
+        visited_domains_output.flush() # Ensure it writes immediately
         return True
 
 
