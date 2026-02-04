@@ -3,6 +3,11 @@ from urllib.parse import urlparse, urljoin, urldefrag, parse_qs, urlunparse
 from bs4 import BeautifulSoup
 from collections import Counter, defaultdict
 
+
+NON_STOPWORD_MIN = 50
+
+log_output = open("logs.txt", "a")          #prints what files were low info skipped
+
 word_counts = Counter()
 longest_page = ("", 0)
 unique_urls = set()
@@ -88,14 +93,30 @@ def extract_next_links(url, resp):
 
         # Text Analytics (Q2 & Q3)
         text = soup.get_text(separator=" ")
+        all_tokens = text.split()
         words = re.findall(r"[a-zA-Z]+", text.lower())
         filtered = [w for w in words if w not in STOPWORDS and len(w) > 1]
+
         
-        word_counts.update(filtered)
+        low_non_stop_words = len(filtered) < NON_STOPWORD_MIN        #less than 50 non-stop words
+        uniqueness_ratio = len(set(filtered)) / len(filtered) if len(filtered) > 0 else 0        
+        not_unique = uniqueness_ratio < 0.1
+        text_ratio = 1
+        if len(all_tokens) > 0:
+            text_ratio = len(words) / len(all_tokens)
+        low_text_ratio = text_ratio < 0.3
+
+        is_low_info = low_non_stop_words or not_unique or low_text_ratio
+        if is_low_info:
+            print(f"SKIPPED (Low Info): {clean_url}", file=log_output)
+            log_output.flush()
+            pass
+        else:
+            word_counts.update(filtered)
         
-        global longest_page
-        if len(filtered) > longest_page[1]:
-            longest_page = (clean_url, len(filtered))
+            global longest_page
+            if len(filtered) > longest_page[1]:
+                longest_page = (clean_url, len(filtered))
 
     # 3. Link Extraction
     links = []
