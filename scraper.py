@@ -2,6 +2,7 @@ import re
 from urllib.parse import urlparse, urljoin, urldefrag, parse_qs, urlunparse
 from bs4 import BeautifulSoup
 from collections import Counter, defaultdict
+from tokenizer import tokenize_text_stream
 
 
 NON_STOPWORD_MIN = 50
@@ -98,18 +99,43 @@ def extract_next_links(url, resp):
 
         # Text Analytics (Q2 & Q3)
         text = soup.get_text(separator=" ")
-        all_tokens = text.split()
-        words = re.findall(r"[a-zA-Z]+", text.lower())
-        filtered = [w for w in words if w not in STOPWORDS and len(w) > 1]
+        # all_tokens = text.split()
+        # words = re.findall(r"[a-zA-Z]+", text.lower())
+        # filtered = [w for w in words if w not in STOPWORDS and len(w) > 1]
 
         
-        low_non_stop_words = len(filtered) < NON_STOPWORD_MIN        #less than 50 non-stop words
-        uniqueness_ratio = len(set(filtered)) / len(filtered) if len(filtered) > 0 else 0        
+        # low_non_stop_words = len(filtered) < NON_STOPWORD_MIN        #less than 50 non-stop words
+        # uniqueness_ratio = len(set(filtered)) / len(filtered) if len(filtered) > 0 else 0        
+        # not_unique = uniqueness_ratio < 0.1
+        # text_ratio = 1
+        # if len(all_tokens) > 0:
+        #     text_ratio = len(words) / len(all_tokens)
+        # low_text_ratio = text_ratio < 0.3
+
+        tokens = list(tokenize_text_stream(text))
+
+        # All alphabetic tokens (like old `words`)
+        alpha_tokens = [t for t in tokens if t.isalpha()]
+
+        # Non-stopword meaningful tokens
+        filtered = [t for t in alpha_tokens if t not in STOPWORDS and len(t) > 1]
+
+        # Low-information checks
+        low_non_stop_words = len(filtered) < NON_STOPWORD_MIN
+
+        uniqueness_ratio = (
+            len(set(filtered)) / len(filtered)
+            if len(filtered) > 0 else 0
+        )
         not_unique = uniqueness_ratio < 0.1
-        text_ratio = 1
-        if len(all_tokens) > 0:
-            text_ratio = len(words) / len(all_tokens)
+
+        # Text ratio: alphabetic tokens vs all tokens
+        text_ratio = (
+            len(alpha_tokens) / len(tokens)
+            if len(tokens) > 0 else 0
+        )
         low_text_ratio = text_ratio < 0.3
+
 
         is_low_info = low_non_stop_words or not_unique or low_text_ratio
         if is_low_info:
