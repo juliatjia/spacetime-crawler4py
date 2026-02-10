@@ -5,7 +5,7 @@ from collections import Counter, defaultdict
 from tokenizer import tokenize_text_stream
 
 
-NON_STOPWORD_MIN = 50
+NON_STOPWORD_MIN = 300
 
 low_info_output = open("low_info.txt", "a")          #prints what files were low info skipped
 visited_domains_output = open("visited_domains.txt", "a")
@@ -34,6 +34,20 @@ TRAP_KEYWORDS = (
     "_files",
     "/events/list",
     "/all-events",
+    "image",
+    "ical",
+    "outlook-ical",
+    "share",
+    "tab_details",
+    "tab_files",
+    "do",
+    "ns",
+    "tribe_events",
+    "eventDisplay",
+    "tribe-bar-date",
+    "project-meeting",
+    "info-session",
+    "workshop"
 )
 
 BAD_QUERY_KEYS = {
@@ -42,7 +56,7 @@ BAD_QUERY_KEYS = {
     "session", "sid", "phpsessid", "jsessionid",
     "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
     "fbclid", "gclid",
-    "sort", "order", "orderby", "filter", "view", "format",  # common "variation" params
+    "sort", "order", "orderby", "filter", "view", "format", "eventDate", "paged", "post_type", # common "variation" params
 }
 
 def scraper(url, resp):
@@ -141,7 +155,7 @@ def extract_next_links(url, resp):
         if is_low_info:
             print(f"SKIPPED (Low Info): {clean_url}", file=low_info_output)
             low_info_output.flush()
-            pass
+            return []       #fix so we dont fall and keep searching traps
         else:
             word_counts.update(filtered)
         
@@ -206,6 +220,9 @@ def is_valid(url):
         if not any(host == d or host.endswith("." + d) for d in ALLOWED_DOMAINS):
             print(f"REJECTED (Outside Domain): {url}", file=visited_domains_output)
             return False
+
+        
+            
         
         if re.match(
             r".*\.(css|js|bmp|gif|jpe?g|ico"
@@ -234,6 +251,9 @@ def is_valid(url):
                 f.write(f"REJECTED (Archive/Calendar): {url}\n")
             return False
         if re.search(r'/events/\d{4}-\d{2}-\d{2}', path):
+            print(f"REJECTED (Calendar Day): {url}", file=visited_domains_output)
+            return False
+        if re.search(r'/events/tag/.*/day/\d{4}-\d{2}-\d{2}', path):
             print(f"REJECTED (Calendar Day): {url}", file=visited_domains_output)
             return False
         if "outlook-ical" in url.lower() or "/day/" in path:
@@ -272,8 +292,6 @@ def is_valid(url):
         if any(k.lower() in BAD_QUERY_KEYS for k in qs):
             print(f"REJECTED (Bad Query): {url}", file=visited_domains_output)
             return False
-
-
 
         # query-string sanity checks to avoid infinite spaces
         if parsed.query:
