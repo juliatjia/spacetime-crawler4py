@@ -10076,3 +10076,1422 @@ SKIPPED (Low Info): https://svn.ics.uci.edu
 SKIPPED (Low Info): https://www.ics.uci.edu/~ipanagea
 SKIPPED (Low Info): https://ics.uci.edu/~eppstein/ca/replicators/b026s12.html
 SKIPPED (Low Info): https://ics.uci.edu/~eppstein/ca/replicators/b0147s1.html
+SKIPPED (Low Info): https://dgillen.ics.uci.edu
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/explicit-binary-tree-codes-with-polylogarithmic-size-alphabet/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/network-biform-games-an-application-to-the-implementation-of-electronic-waste-legislation/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/planar-graph-perfect-matching-is-in-nc/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/dudeneys-no-three-in-line-problem/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/capacity-of-neural-networks/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/stable-matching-voronoi-diagrams-combinatorial-complexity-and-algorithms/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/a-strongly-polynomial-algorithm-for-linear-exchange-markets/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/nonlinear-regression-via-convex-programming/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/formal-verification-of-edmonds-blossom-algorithm/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/tba-5/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/the-maximum-diameter-of-oriented-matroids/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/496/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/the-quarks-of-attention/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/approximation-algorithms-for-network-design/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/lp-duality-theory-and-the-cores-of-games/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/a-theory-of-alternating-paths-and-blossoms-from-the-perspective-of-minimum-length/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/fragile-stable-matchings/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/seminars/market-design-problems-competitive-equilibrium-and-stable-allocation/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/contact/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/news/
+SKIPPED (Low Info): https://ics.uci.edu/~theory/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/people/
+SKIPPED (Low Info): https://acoi.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~standish/
+SKIPPED (Low Info): https://www.stat.uci.edu/minor-in-statistics/
+SKIPPED (Low Info): https://ics.uci.edu/~lab/students/index.php
+SKIPPED (Low Info): https://ics.uci.edu/~lab/labs_specs/index.php
+SKIPPED (Low Info): https://ics.uci.edu/~lab/lab_schedule/index.php
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/time-how-you-can-stop-email-from-taking-over-your-life-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2014/07/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-kernel-11-women-who-are-changing-geek-culture/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2014/12/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/oc-register-edison-high-school-students-study-cyber-savvy-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2015/02/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bbc-a-generation-of-cyberslackers-mark-quoted/
+SKIPPED (Low Info): https://studentcouncil.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/professor-olson-recognized-by-google-co-founder/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/nmsu-roundup-video-game-labor-yields-economic-value-nardi-quoted/
+SKIPPED (Low Info): http://wics.ics.uci.edu/janay-nunez
+SKIPPED (Low Info): http://wics.ics.uci.edu/spring-2025-week-9-general-retreat
+SKIPPED (Low Info): http://wics.ics.uci.edu/spring-2025-week-10-wics-banquet
+SKIPPED (Low Info): http://wics.ics.uci.edu/spring-2025-anteater-awards
+SKIPPED (Low Info): http://wics.ics.uci.edu/fall-2025-week-1-first-general-meeting
+SKIPPED (Low Info): http://wics.ics.uci.edu/fall-2025-week-2-mentorship-mixer
+SKIPPED (Low Info): http://wics.ics.uci.edu/fall-2025-week-3-wics-games
+SKIPPED (Low Info): http://wics.ics.uci.edu/venus-hacks-merch
+SKIPPED (Low Info): https://wics.ics.uci.edu/contact
+SKIPPED (Low Info): https://wics.ics.uci.edu/join-us
+SKIPPED (Low Info): http://wics.ics.uci.edu/irishacks-2023
+SKIPPED (Low Info): http://wics.ics.uci.edu/netwics-2023
+SKIPPED (Low Info): http://wics.ics.uci.edu/exploreics
+SKIPPED (Low Info): https://wics.ics.uci.edu/author/admin/page/40
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-mentorship-program/
+SKIPPED (Low Info): https://wics.ics.uci.edu/masimo-presents-the-hidden-job-market/
+SKIPPED (Low Info): https://wics.ics.uci.edu/google-career-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-update
+SKIPPED (Low Info): https://wics.ics.uci.edu/beginning-of-the-quarter-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-goes-to-blizzard/
+SKIPPED (Low Info): https://wics.ics.uci.edu/category/init-together/
+SKIPPED (Low Info): https://wics.ics.uci.edu/western-digital-tour-luncheon-with-female-engineers/
+SKIPPED (Low Info): https://wics.ics.uci.edu/ics-banquet
+SKIPPED (Low Info): https://wics.ics.uci.edu/aspire-it-camp-techie-girls/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-week-0-meet-and-greet/
+SKIPPED (Low Info): https://wics.ics.uci.edu/annual-mentorship-program-2013
+SKIPPED (Low Info): https://wics.ics.uci.edu/grace-hopper-celebration-2013/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-5-women-in-technology-talk-by-northrop-grumman/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-6-socal-gas-company
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-8-thanksgiving-potluck/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-10-hour-of-code/
+SKIPPED (Low Info): https://wics.ics.uci.edu/web-development-projects-awards/
+SKIPPED (Low Info): https://wics.ics.uci.edu/first-wics-meeting-of-winter-14/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-co-hosts-google-panel/
+SKIPPED (Low Info): https://wics.ics.uci.edu/movie-night-and-boardgames-with-wics
+SKIPPED (Low Info): https://wics.ics.uci.edu/first-android-app-development-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/food-and-fun-with-wics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/brownie-troops-computer-expert-badge/
+SKIPPED (Low Info): https://wics.ics.uci.edu/studying-with-wics
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-mock-interviews
+SKIPPED (Low Info): https://wics.ics.uci.edu/android-app-finale
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-first-general-spring-quarter-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-is-invited-to-western-digital
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-attends-cwic-socal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/witi-comes-to-uci
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-launches-a-flappy-bird-python-project/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-potluck-with-ics-clubs/
+SKIPPED (Low Info): https://wics.ics.uci.edu/studying-with-wics-2/
+SKIPPED (Low Info): https://wics.ics.uci.edu/first-annual-wics-games/
+SKIPPED (Low Info): https://wics.ics.uci.edu/gen-meeting-and-mentorship-14
+SKIPPED (Near-Duplicate): http://wics.ics.uci.edu/?slide=wics-committee-2013-2014
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-5-facebook-women-panel/
+SKIPPED (Low Info): https://wics.ics.uci.edu/first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/ics-career-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund-2/
+SKIPPED (Low Info): https://wics.ics.uci.edu/study-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/girls-who-code
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/mock-interview/
+SKIPPED (Low Info): https://wics.ics.uci.edu/recurse-center
+SKIPPED (Low Info): https://wics.ics.uci.edu/movie-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/board-game-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-is-awarded-the-trailblazer-award-from-ncwit-and-google-org
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2016-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2016-week-2-social-meet-and-greet-event
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2016-week-3-wics-games
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2016-week-4-mentorship-reveal
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-attends-gracehopper-conference-2016
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-week-4-study-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2016-week-6-facebook-diversity-panel/
+SKIPPED (Low Info): https://wics.ics.uci.edu/i-htm/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-quarter-2017-week-1-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-quarter-2017-week-4-crime-and-mystery-game-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-quarter-2017-week-6-study-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-quarter-2017-week-7-intuit-interactive-hackathon-prep/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-quarter-2017-week-8-wics-mentorship-baked-goods-potluck-and-movie-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-quarter-2017-week-1-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-quarter-2017-week-3-blizzard-tour/
+SKIPPED (Low Info): https://wics.ics.uci.edu/aspireit-2017
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-quarter-2017-week-3-riot-tour
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2017-week-0-wics-social
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2017-week-1-wics-first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-2017-week-2-mentorship-mixer
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2017-week-3-wics-games/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-quarter-2017-week-5-wics-mentorship-reveal
+SKIPPED (Low Info): https://wics.ics.uci.edu/women-empowering-women-lunch-2018
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-2018-week-4-blind-squirrel-games-debugging-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-5-yoga-and-study-sessionice-cream
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-7-women-in-tech-panel-with-sendgrid
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-0-anteater-involvement-fair
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-1-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer
+SKIPPED (Low Info): https://wics.ics.uci.edu/category/highlights/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-3-wics-games/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-4-coffee-chat-with-deloitte/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-5-mentorship-reveal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-7-msc-software-information-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-9-casino-night
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-10-wics-potluck
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-1-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-4-battle-of-the-mentorships
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-5-study-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-4-jeopardy-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-7-women-in-games-panel/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-7wics-round-1-social/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-9-self-care-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-10-wics-potluck
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-1-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/athenahacks-2019/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-4-battle-of-the-mentorships
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week5-intro-to-web-design/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-6-study-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/category/news/tour/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-6-intuit-tour/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-7-slalom-tour
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-8-wics-game-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-spring-quarter-week-10-amazon-alexa-wokshop/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-1-first-general-meeting-2/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer-2
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-2-meet-the-board-social-qa/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-3-wics-games-2/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-4-honey-information-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-5-facebook-coding-event
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-6-mentorship-reveal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-8-movie-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-9-friendsgiving-potluck/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-1-first-general-meeting-2/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-2-mentorship-social/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-4-redfin-event/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-4-just-code-it-day-1/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-5-vmwares-networking-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-5-crowdstrike-open-house
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-7-just-code-it-program-accomplished/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-winter-quarter-week-8-negotiation-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-1-first-general-meeting-3
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-1-icssc-x-wics-meet-and-greet-with-ingram-micro
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer-3/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-4-wics-games/
+SKIPPED (Low Info): https://wics.ics.uci.edu/wics-fall-quarter-week-4-wics-trivia-night
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2020-week-4-northrop-grumman-professional-development-webinar
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2020-week-6-wics-mentorship-reveal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2020-week-7-get-involved-with-undergraduate-research
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2020-week-8-wics-x-shpe-x-swe-diverse-women-in-tech-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2020-week-9-day-in-a-life-of-a-swe-pm-ui-ux-designer/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2020-week-10-wicsmas/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-1-wics-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2021-week-4-lean-in-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-5-ctc-x-wics-how-to-build-tech-for-social-good/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2021-week-8-from-inception-to-delivery-with-intel
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2021-week-9-self-care-session/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2021-week-1-wics-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2021-week-2-chipotle-roundtable/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2021-week-6-negotiation-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2021-week-7-wics-x-hack-at-uci-resume-review/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2021-week-8-wics-arcade
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2021-week-9-whisk-with-wics
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-1-wics-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-3-wics-games/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-6-mentorship-reveal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-6-mentorship-social-at-utc/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-7-code-your-own-portfolio/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-2-wics-mentorship-mixer
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-5-acm-x-wics-x-plaid-coding-competition/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-8-wics-x-womxn-the-bell/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-9-virtual-day-in-the-life-of-a-swe-pm-ui-ux-designer-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-8-wics-game-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2021-week-10-wicsgiving/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-1-general-meeting-paint-night-social/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2022-week-5-life-after-uci/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-7-wics-x-corporate-game-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2022-week-7-wicsentine/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2022-week-7-mentorship-madness
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2022-week-8-virtual-kahoot-clash-collab/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-9-jeopardy/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2022-week-10-wics-study-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-1-general-retreat/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-1-wics-first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-1-wics-x-swe-x-oai-women-in-stem-trivia-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-3-movie-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-4-projects-at-chipotle/
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-6-midterm-mixer/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-6-mentorship-mayhem
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-7-crowdstrike-office-hours/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-8-wicsino-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-9-wicsxfactor/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-9-wicsxpics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2022-week-9-wics-banquet/
+SKIPPED (Low Info): https://wics.ics.uci.edu/summer-2022-lunch-with-the-mayor/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-1-first-general-meeting-utc-social
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-2-mentorship-mixer
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-3-wics-games
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-4-intro-to-ui-ux-with-designuci
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-5-crowdstrike-company-tour/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-6-mentorship-reveal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-6-interview-prep-with-intuit
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-6-mentorship-social/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-7-rock-your-linkedin-profile-with-rivian
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-8-day-in-the-life-of-slalom/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-8-mentorship-retreat/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-9-wics-study-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2022-week-10-wicsgiving-potluck
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-1-first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-1-committee-retreat
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-4-mentorship-field-day/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-5-intro-to-cybersecurity-with-cyberuci/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-6-wics-x-costar-group
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-7-wics-x-general-atomics-women-in-tech-panel
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-8-wics-x-taco-bell
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-community-outreach-cypress-bootcamp/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-8-wics-crepe-booth/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-9-movie-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-9-build-your-own-website-with-html-css/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-10-study-night-with-wics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-1-first-general-meeting-utc-social-event/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-2-company-cookie-decorating-contest
+SKIPPED (Low Info): https://wics.ics.uci.edu/week-2-build-your-own-website-with-git
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-3-www-coffeechats
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-3-community-outreach-x-el-sol-scratch-a-thon/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-5-wicsnics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/category/outreach
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-8-chipotle-wrap-up/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-9-wics-general-retreat/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2023-week-10-wics-banquet/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-1-first-general-meeting/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-2-mentorship-mixer/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-4-wics-games/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-4-committee-apps-panel/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-5-beyond-handshakes-how-to-network-with-general-atomics-x-wics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-6-mentorship-reveal/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-6-scratch-a-thon
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-8-data-x-wics-speaker-session-women-i73-ai-ml
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-9-pitch-perfect-with-pacific-life/
+SKIPPED (Low Info): https://wics.ics.uci.edu/category/mentorship/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2023-week-10-winter-wicserland/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2023-week-1-first-general-meeting-2
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-3-wics-internquest
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-4-wics-x-vgdc-mad-pitch/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-6-wics-x-swe-valentines-social
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-8-wics-x-gdsc-introduction-to-recommendation-systems
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-8-crepe-boothing
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-9-wics-x-costar-how-to-be-a-confident-woman-in-tech
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-9-study-session-wicsdunnit-the-great-mentorship-mystery/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-9-wics-mentorship-hide-and-go-seek
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-10-board-game-social/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-1-first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-2-wics-x-wit-coffee-chats/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-2-puzzle-relay-study-session-deloitte-talk
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-2-netwics
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-3-girl-boss-and-girl-budget-with-wics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-4-startups-in-tech-with-manifest
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-5-committee-spotlight-community-outreach
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-6-wics-x-ctc-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-6-dreamworks-office-tour
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-8-the-scrum-lab-w-allegiant-airlines
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-8-super-study-sesh-with-hero-cosmetics
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-9-wics-general-retreat
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2024-week-10-wics-banquet
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-1-first-general-meeting
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-2-mentorship-mixer
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-3-wics-games
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-3-study-session-mentorship-mixer-pt-2
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-4-mentorship-reveal
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-4-mentorship-picnic-paint-social
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-5-shetech-navigating-software-careers
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-6-wics-x-alumni-coffee-chats
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-7-wics-study-session
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-7-mentorship-retreat/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-8-wics-x-first-american/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2024-week-9-wicsgiving/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-1-vision-board-beyond
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-2-breaking-barriers-navigating-imposter-syndrome-with-northrop-grumman-x-wics
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-4-mentorship-game-night/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-5-valentines-social
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-6-women-at-microsoft
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-7-mtis
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-7-mentorship-retreat/
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2024-week-8-wics-x-vgdc-creature-clash
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-9-wics-x-the-dev-difference
+SKIPPED (Low Info): https://wics.ics.uci.edu/winter-2025-week-10-sketch-sip/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-1-among-wics/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-3-wicsino/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-3-costar-office-tour/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-4-wics-x-crowdstrike
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-4-wicslympics
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-5-presentation-roulette
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-6-hash-mash/
+SKIPPED (Low Info): https://wics.ics.uci.edu/spring-2025-week-6-sculpt-and-study/
+SKIPPED (Low Info): https://wics.ics.uci.edu/fall-2025-week-3-mentorship-mixer-pt-2-study-session
+SKIPPED (Low Info): http://wics.ics.uci.edu/wics-2018-bytes-of-code
+SKIPPED (Low Info): http://wics.ics.uci.edu/bytes-of-code-2019
+SKIPPED (Low Info): http://wics.ics.uci.edu/just-code-it
+SKIPPED (Low Info): https://wics.ics.uci.edu/about-community-outreach
+SKIPPED (Low Info): http://wics.ics.uci.edu/inittogether
+SKIPPED (Low Info): http://cwicsocal18.ics.uci.edu/
+SKIPPED (Low Info): http://wics.ics.uci.edu/vghc-2020
+SKIPPED (Low Info): http://wics.ics.uci.edu/vghc-2021
+SKIPPED (Low Info): http://wics.ics.uci.edu/ghc-2022
+SKIPPED (Low Info): http://wics.ics.uci.edu/ghc-2023
+SKIPPED (Low Info): http://wics.ics.uci.edu/ghc-2024
+SKIPPED (Near-Duplicate): http://wics.ics.uci.edu/category/news/page/36/
+SKIPPED (Low Info): http://wics.ics.uci.edu/hello-world
+SKIPPED (Low Info): http://wics.ics.uci.edu/2nd-post/
+SKIPPED (Near-Duplicate): http://wics.ics.uci.edu/category/news/page/2/
+SKIPPED (Low Info): http://wics.ics.uci.edu/history-of-wics
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/informatics-ph-d-student-receives-google-anita-borg-memorial-scholarship/
+SKIPPED (Low Info): https://courselisting.ics.uci.edu/grad_courses/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2015/08/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/los-angeles-times-heres-how-members-of-the-burgeoning-digital-workforce-are-protecting-themselves-from-exploitation/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/san-jose-mercury-news-facebook-seeks-to-conquer-the-workplace-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/we-are-hiring/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-is-email-evil-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-new-yorker-death-by-flaming-water-ski-an-other-misfortunes-bowker-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-the-triumph-of-email-mark-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/kobsa-receives-mercator-fellowship/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/los-angeles-times-hi-im-a-digital-junkie-and-i-suffer-from-infomania-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/daily-sabah-facebook-celebrates-turning-12-with-friends-day-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/gary-olson-2-ics-alums-receive-sigchi-honors/
+SKIPPED (Low Info): https://ics.uci.edu/~gmark/
+SKIPPED (Low Info): https://accessibility.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~ampiper/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~lopes/
+SKIPPED (Low Info): https://ics.uci.edu/~kobsa/
+SKIPPED (Low Info): https://ics.uci.edu/~kay/
+SKIPPED (Low Info): https://ics.uci.edu/~jajones/
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=378
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=372
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=310
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=412
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=416
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=432
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=458
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=481
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=527
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=569
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=604
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=613
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=666
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=708
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=736
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=807
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=812
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=815
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=818
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=825
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=889
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=896
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=911
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=903
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=907
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=923
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=934
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=928
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?p=948
+SKIPPED (Low Info): https://ics.uci.edu/~negargh/
+SKIPPED (Low Info): https://ics.uci.edu/~seal/projects/trimdroid/
+SKIPPED (Low Info): http://seal.ics.uci.edu/projects/droid-sec-taxonomy/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~seal/
+SKIPPED (Low Info): https://jgarcia.ics.uci.edu/?page_id=65
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/mark-featured-on-kpccs-airtalk-about-multitasking-in-the-workplace/
+SKIPPED (Low Info): https://ics.uci.edu/~wmt/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/how-apple-watch-and-pervasive-computing-can-lure-you-into-leveling-up-your-fitness/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-courier-mail-technology-is-creating-a-generation-of-dummies-mark-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/knowledgewharton-can-deep-work-really-work-for-you-mark-cited/
+SKIPPED (Low Info): https://ics.uci.edu/~gbowker/
+SKIPPED (Low Info): https://evoke.ics.uci.edu/dca2021/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bowker-receives-asist-2016-best-information-science-book-award/
+SKIPPED (Low Info): https://ics.uci.edu/~djr/DebraJRichardson/Home.html
+SKIPPED (Low Info): https://ics.uci.edu/~malek/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/informatics-team-recognized-as-best-paper-finalist-at-assets-2016/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/comedian-chris-hardwick-tackles-the-science-of-social-media/
+SKIPPED (Low Info): https://courselisting.ics.uci.edu/ugrad_courses/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/van-der-hoek-visits-ea-to-discuss-collaboration/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/u-s-news-world-report-microsoft-aims-to-build-on-minecraft-success-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2016/11/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/multichanel-news-cartoon-network-adds-steam-to-computer-ed-initiative-ito-mentioned/
+SKIPPED (Low Info): http://graphics.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/cbs-los-angeles-woman-vindicated-of-faking-her-kidnapping-now-getting-harassed-online-mark-interviewed/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/informatics-ph-d-students-caldeira-tsaasan-receive-graduate-fellowships/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/cool-material-8-tips-to-help-you-achieve-inbox-zero-mark-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/medium-bad-habits-you-need-to-kill-immediately-to-be-a-much-better-person-this-year-mark-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2017/02/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-magazine-a-bold-new-sports-franchise/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/kabc-uc-irvine-to-host-female-gaming-panel/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-esports-women-in-gaming-at-uci/
+SKIPPED (Low Info): https://ics.uci.edu/~gmark/Home_page/Welcome.html
+SKIPPED (Low Info): https://ics.uci.edu/~dfredmil/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-a-behavioral-economists-quest-to-make-email-less-painful-mark-quoted/
+SKIPPED (Low Info): https://ics.uci.edu/~djr/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bloomberg-its-fine-to-obsess-over-march-madness-at-work/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bbc-meet-the-people-whove-stopped-emailing/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/connected-camps-how-to-get-your-daughters-into-tech-by-embracing-who-they-really-are-by-mimi-ito/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/penn-state-news-heard-on-campus-going-to-school-on-a-robot-judy-olson-from-uc-irvine/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/motherboard-theres-no-safe-way-to-keep-child-porn-and-murder-off-facebook-kat-lo-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/mic-racist-and-sexist-behavior-in-esports-is-exposing-what-regular-gamers-experience-every-day-kat-lo-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/newsworks-kids-thrive-when-they-swim-among-peers-and-mentors-with-common-interests-by-mimi-ito/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/automation-and-heteromation-the-future-and-present-of-labor-by-bonnie-nardi/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/fast-company-thanks-to-telepresence-robots-kids-can-attend-school-from-home-judy-olson-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/nardi-publishes-book-on-the-computerization-of-the-economy/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/citylab-can-cities-hack-diversity-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2017-sigsoft-impact-paper-award/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/changing-academic-life-gloria-mark-on-service-multitasking-creativity-and-fun/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/kqed-news-how-online-camps-help-kids-stay-connected-to-stem-skills-and-mentors-year-round-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/kpbs-comic-con-for-educators-geeked-panel-of-informatics-faculty-highlighted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/sydney-morning-herald-wordplay-a-cryptic-shaped-hole-mark-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2017/08/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/hai-lab-has-three-papers-accepted-for-cscw-2018/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/oc-register-games-are-changing-the-world-just-ask-new-uci-professor-who-worked-in-the-white-house-steinkeuhler-profiled/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/deadline-amazon-prime-unveils-kids-fall-slate-ito-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/washington-post-video-game-players-get-varsity-treatment-at-more-us-colleges/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/los-angeles-times-are-video-games-bad-for-your-kids-not-so-much-experts-now-believe-steinkuehler-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/medium-were-awake%E2%80%8A-%E2%80%8Abut-were-not-at-the-wheel-bietz-co-author/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-register-more-than-half-of-github-is-duplicate-code-researchers-find/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/sdpb-radio-why-libraries-are-more-important-now-than-ever-mimi-ito-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/motherboard-the-reddit-moderator-getting-a-phd-in-online-moderation-phd-student-kat-lo-profiled/
+SKIPPED (Low Info): https://ics.uci.edu/~elzarki/
+SKIPPED (Low Info): https://ics.uci.edu/~zhengkai/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/julius-baer-the-familiar-faces-of-interfaces-gillian-hayes-quoted/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/many-isg-members-attended-the-socal-db-day-at-usc-read-more/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/yicong-received-a-uc-irvine-2025-most-promising-future-faculty-award/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/ramesh-received-the-winner-of-the-2024-best-paper-award-by-ieee-multimedia/
+SKIPPED (Low Info): https://isg.ics.uci.edu/contact-us/
+SKIPPED (Low Info): https://isg.ics.uci.edu/visitor-info/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/tag/yun-huang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/socaldb-day-2018-at-ucsd-october-19-2018/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/prof-chen-li-became-an-acm-distinguished-member/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/prof-ramesh-jain-receives-the-2019-ieee-tcmc-impact-award-for-pioneering-and-wide-spread-impact-to-multimedia-computing-for-the-past-four-decades/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/isg-student-chen-luo-was-one-of-four-graduate-students-winners-3rd-place-in-the-student-research-competition-at-the-2020-acm-sigmod-international-conference/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/isg-researchers-won-the-mark-weiser-best-paper-award-at-ieee-percom-2022/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/upcoming-talk-shedding-light-on-opaque-database-queries/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/upcoming-talk-couchbase-and-distributed-computing-backends-for-big-data-processing/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/upcoming-talk-how-to-build-your-own-business/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/isg-student-sadeem-alsudais-won-the-isabel-cruz-memorial-travel-award-at-the-2022-acm-sigspatial/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/prof-chen-li-was-elevated-to-ieee-fellow-effective-january-1-2023/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/ph-d-student-andrew-chio-named-arcs-scholar-uc-national-lab-in-residence-fellow/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/the-department-of-computer-science-uc-irvine-welcoms-prof-babak-salimi-for-an-isg-talk/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/the-department-of-computer-science-information-systems-group-uc-irvine-welcoms-dr-alex-behm-databricks-for-an-isg-talk/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/together-with-other-colleagues-the-isg-faculty-and-students-have-successfully-run-the-icde-2023-conference-in-anaheim-ca/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/the-department-of-computer-science-information-systems-group-uc-irvine-welcoms-prof-boon-thau-loo-upenn-for-a-cs-seminar-talk/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/the-department-of-computer-science-information-systems-group-uc-irvine-welcomes-prof-ken-birman-cornell-for-an-isg-talk/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/sharad-has-been-named-an-acm-fellow/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/yicong-huang-receives-the-uci-public-impact-fellowship-2023/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/our-ph-d-student-yicong-huang-together-with-co-authors-zuozhi-wang-and-chen-li-has-received-a-best-demo-runner-up-award-at-the-acm-sigmod-2024-conference/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/isg-reunion-story-now-online-read-more/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/virtual-disaster-isg-partnership/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/our-ph-d-student-farzad-habibi-together-with-co-authors-faisal-nawab-has-received-a-best-paper-runner-up-award-at-the-srds-2024-conference/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/our-ph-d-student-farzad-habibi-has-received-a-best-ph-d-forum-award-at-the-srds-2024-conference/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/welcome-to-attend-the-southern-california-database-day-on-may-9-2025-read-more/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/ph-d-student-yicong-huang-received-two-ics-fellowships/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news/andrew-chio-2025-cps-iot-week-phd-forum-best-poster-award/
+SKIPPED (Low Info): https://isg.ics.uci.edu/news-category/recent-news/page/2/
+SKIPPED (Low Info): https://isg.ics.uci.edu/db-qual/
+SKIPPED (Low Info): https://ics.uci.edu/~cs237/
+SKIPPED (Low Info): https://ngs.ics.uci.edu/next-generation-search-course/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/teacher/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/researcher/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/entrepreneur/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/personal/favorite-quotes/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/personal/favorite-books/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/personal/education/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/personal/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/professionalsocial/interviews/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/professionalsocial/services/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/professionalsocial/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/partners/collaborators/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/partners/current-students/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/partners/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/entrepreneurship/past-companies/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/entrepreneurship/current-companies/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/entrepreneurship/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/teaching/past-courses/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/teaching/current-courses/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/teaching/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/research/research-papers/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/research/projects/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/research/patents/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/research/books/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/research/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/blog/
+SKIPPED (Low Info): http://ngs.ics.uci.edu/about-ramesh/news/
+SKIPPED (Low Info): https://ics.uci.edu/~ics143/
+SKIPPED (Low Info): https://nalini.ics.uci.edu
+SKIPPED (Low Info): https://ics.uci.edu/~flamingo/release/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~chenli/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/releases/1.0/src/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/releases/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/toolkit/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/releases/4.1/src/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/releases/4.1/src/util/
+SKIPPED (Low Info): https://fr.ics.uci.edu/chile/
+SKIPPED (Low Info): https://ics.uci.edu/~cs224/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/releases/2.0.1/src/
+SKIPPED (Low Info): http://flamingo.ics.uci.edu/releases/2.0.1/src/util/
+SKIPPED (Near-Duplicate): http://flamingo.ics.uci.edu/releases/2.0/
+SKIPPED (Low Info): https://asterix.ics.uci.edu/supporters.html
+SKIPPED (Near-Duplicate): https://asterix.ics.uci.edu/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~cs122b/
+SKIPPED (Low Info): http://fr.ics.uci.edu/haiti/
+SKIPPED (Low Info): http://fr.ics.uci.edu/
+SKIPPED (Near-Duplicate): http://flamingo.ics.uci.edu/releases/3.0/
+SKIPPED (Low Info): https://ics.uci.edu/~xhx/courses/CS175/
+SKIPPED (Low Info): https://ipubmed.ics.uci.edu/
+SKIPPED (Near-Duplicate): http://flamingo.ics.uci.edu/releases/4.0/
+SKIPPED (Low Info): http://hobbes.ics.uci.edu/
+SKIPPED (Near-Duplicate): http://flamingo.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~cs222/
+SKIPPED (Low Info): https://cloudberry.ics.uci.edu/
+SKIPPED (Low Info): https://ds4all.ics.uci.edu/ds4all2025/
+SKIPPED (Low Info): https://chenli.ics.uci.edu/miscellaneous/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/internet/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/venue-information/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/hardbd-active-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/astride-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/dasc-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/smdb-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/dbml-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/bdafc-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/decor-2023/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/ph-d-symposium-track/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/tutorial-track/
+SKIPPED (Near-Duplicate): https://icde2023.ics.uci.edu/papers-research-track/
+SKIPPED (Near-Duplicate): https://icde2023.ics.uci.edu/detailed-program/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/code-of-conduct/
+SKIPPED (Near-Duplicate): https://icde2023.ics.uci.edu/research-program-committee/
+SKIPPED (Low Info): https://icde2023.ics.uci.edu/general-info/
+SKIPPED (Low Info): https://ds4all.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~dnazip/
+SKIPPED (Low Info): http://asterix.ics.uci.edu/fuzzyjoin/
+SKIPPED (Low Info): https://chenli.ics.uci.edu/biography/
+SKIPPED (Low Info): https://ics.uci.edu/~mjcarey/
+SKIPPED (Low Info): http://sherlock.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~projects/SATware/intranet.html
+SKIPPED (Low Info): https://ics.uci.edu/~projects/SATware/all_videos_demos.html
+SKIPPED (Low Info): https://ics.uci.edu/~projects/SATware/press.html
+SKIPPED (Low Info): https://ics.uci.edu/~projects/SATware/people.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~projects/SATware/
+SKIPPED (Low Info): http://cert.ics.uci.edu/seminar/Nanda/bio.htm
+SKIPPED (Low Info): http://cert.ics.uci.edu/seminar/Nanda/abstract.htm
+SKIPPED (Low Info): http://cert.ics.uci.edu/safire.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/aboutus.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/SAFIRE/
+SKIPPED (Low Info): http://cert.ics.uci.edu/initiatives.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/board.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/people.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/motivation.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/seminarseries.html
+SKIPPED (Low Info): http://cert.ics.uci.edu/partnerships.html
+SKIPPED (Near-Duplicate): http://cert.ics.uci.edu/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~raccoon/
+SKIPPED (Low Info): https://ics.uci.edu/~iosif/
+SKIPPED (Near-Duplicate): http://www-db.ics.uci.edu/pages/research/quasar/index.shtml
+SKIPPED (Low Info): http://www-db.ics.uci.edu/pages/links/index.shtml
+SKIPPED (Low Info): http://www-db.ics.uci.edu/pages/software/index.shtml
+SKIPPED (Low Info): http://www-db.ics.uci.edu/pages/courses/index.shtml
+SKIPPED (Low Info): http://www-db.ics.uci.edu/pages/demos/index.shtml
+SKIPPED (Low Info): http://www-db.ics.uci.edu/pages/partners/index.shtml
+SKIPPED (Low Info): http://www-db.ics.uci.edu/pages/research/index.shtml
+SKIPPED (Low Info): https://ics.uci.edu/~forge/
+SKIPPED (Low Info): https://ics.uci.edu/~rjammala/
+SKIPPED (Low Info): https://ics.uci.edu/~bhore/
+SKIPPED (Low Info): https://ics.uci.edu/~gtsudik/words.html
+SKIPPED (Low Info): https://ics.uci.edu/~gtsudik/stupid.html
+SKIPPED (Low Info): http://xtune.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~rjammala/contact.html
+SKIPPED (Low Info): https://ics.uci.edu/~rjammala/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~rjammala/DataVault/
+SKIPPED (Low Info): https://ics.uci.edu/~dsm/dyn/release/publication.html
+SKIPPED (Low Info): https://ics.uci.edu/~projects/dissemination/people.htm
+SKIPPED (Low Info): https://ics.uci.edu/~dsm/cypress/all_videos_demos.html
+SKIPPED (Low Info): https://ics.uci.edu/~dsm/cypress/news.html
+SKIPPED (Low Info): https://ics.uci.edu/~dsm/cypress/people.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dsm/cypress/index.html
+SKIPPED (Low Info): http://asterix.ics.uci.edu/bigactivedata/
+SKIPPED (Low Info): https://isg.ics.uci.edu/visitors/
+SKIPPED (Low Info): https://isg.ics.uci.edu/research_staff/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/zuozhi-wang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/xikui-wang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/wang-guoxi/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/wail-yousef-alkowaileet/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/venkateswaran-praveen/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/sinthong-phanwadee-gift/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/shiva-jahangiri/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/sadeem-saleh-alsudais/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/qiuxi-zhu/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/qiushi-bai/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/primal-pappachan/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/nitish-nag/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/nguyen-hang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/liu-fangqi/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/lin-yiming/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/kim-taewoo/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/jiang-daokun/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/harandizadeh-bahareh/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/han-qing/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/guo-rui/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/galvizo-glenn/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/eun-jeong-shin/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/dhrubajyoti-ghosh/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/chen-luo/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/avinash-kumar/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/alhassoun-nailah/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/zhou-yinan/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/yuqiao-li/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/tung-chun-chang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/shiyuan-zhou/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/ryan-hildebrant/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/rummana-rahman/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/rao-sriram/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/ni-shengquan/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/luti-malik/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/liu-xiaozhen/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/lin-xinyuan/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/li-keming/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/kun-woo-park/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/khatibi-elahe/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/kenne-modeste/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/jared-macshane/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/huang-yicong/
+SKIPPED (Low Info): https://edgelab.ics.uci.edu/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/farzad-habibi/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/guangxue-zhang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/gu-binbin/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/fernanda-ventorim/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/juncheng-fang/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/das-pratyoy/
+SKIPPED (Low Info): https://ics.uci.edu/~pattis/misc/sbsarticle/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~pattis/misc/cheatingarticle/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~pattis/ICS-33/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2024-sourceid-stormwater/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2024-step-journal/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2025-sequin-demo/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2025-sequin/
+SKIPPED (Low Info): https://ics.uci.edu/~pattis/ICS-33/
+SKIPPED (Low Info): https://ics.uci.edu/~pattis/ICS-46/
+SKIPPED (Low Info): https://ics.uci.edu/~dsm/
+SKIPPED (Low Info): https://nalini.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2019-mediators/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2020-locator/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2022-smartspec-artifact/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2022-smartspec/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2023-smartspec-journal/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2023-step/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/publication/2024-batchit/
+SKIPPED (Low Info): https://ics.uci.edu/~sharad/
+SKIPPED (Low Info): https://ics.uci.edu/~achio/projects/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/chio-andrew/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/vishal-chakraborty/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/atul-bhope-rahul/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/ali-risheh/
+SKIPPED (Low Info): https://ics.uci.edu/~givargis/
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/professor-tony-givargis/
+SKIPPED (Low Info): https://ics.uci.edu/~swjun/links.htm
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/professor-sang-woo-jun/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/presenting.html
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/writing.html
+SKIPPED (Low Info): https://ics.uci.edu/~fukuzaws/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs299/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/ics280/
+SKIPPED (Low Info): https://ics.uci.edu/~theory/269/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs263/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs262P/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs260P/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/ics247/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs201P/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs167/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs165/proj/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/geom/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/s02.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/s06.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120531/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120529/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120524/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120522/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120517/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120515/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120510/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120508/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120501/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120426/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120424/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120419/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120417/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120412/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20120410/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20130109/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/20130107/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/265/
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps10.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps9.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps8.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps7.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps6.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps5.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps4.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps3.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/163/w25-ps1.html
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/gd/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs162/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/cs161/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/ics160e/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/ics23/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/ics8/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/algslive/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/teach/uni3/
+SKIPPED (Low Info): https://ics.uci.edu/~goodrich/contact.html
+SKIPPED (Low Info): https://isg.ics.uci.edu/faculty2/professor-faisal-nawab/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/wired-what-would-a-healthy-twitter-even-look-like-researcher-katherine-lo-quoted/
+SKIPPED (Low Info): https://ics.uci.edu/~yunanc/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/fivethirtyeight-how-to-break-your-phone-addiction-gloria-mark-research-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/connected-camps-can-minecraft-help-raise-a-generation-of-good-gamers-by-katie-salen/
+SKIPPED (Low Info): https://ics.uci.edu/~klefstad/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-the-bargain-at-the-heart-of-the-kid-internet-mimi-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/vrcade-exposes-students-to-virtual-reality-trends-challenges-and-opportunities/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/professor-crista-lopes-recognized-for-excellence-in-undergraduate-teaching/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bold-lifelong-learning-moving-between-the-academe-and-the-business-world-by-gillian-hayes/
+SKIPPED (Low Info): https://ics.uci.edu/~jie/
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/pubs/dissertation/top.htm
+SKIPPED (Low Info): https://ics.uci.edu/~taylor/Classes.htm
+SKIPPED (Low Info): https://ics.uci.edu/~kay/choosing.courses.html
+SKIPPED (Low Info): https://ics.uci.edu/~jacobson/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/aviation-week-aviaa-guarantees-savings-or-money-back-gillian-hayes-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2018/06/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bustle-why-the-best-video-games-are-the-ones-that-make-men-cry-bonnie-ruberg-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/wired-google-glass-is-back-now-with-artificial-intelligence-gillian-hayes-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/daily-bruin-comic-con-panel-discusses-afrofuturism-in-black-panther-octavia-butlers-works-roderic-crooks-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2018/08/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uc-it-blog-telepresence-learning-with-robots-at-uc-irvine-judy-olson-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/georgia-tech-oh-the-places-theyll-go-professor-gregory-abowd-looks-back-on-30-ph-d-graduates-gillian-hayes-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/quartz-there-are-two-ways-to-multitask-but-only-one-works/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/informatics-ph-d-candidate-daniel-gardner-selected-as-arcs-scholar/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2018/10/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/los-angeles-times-uci-student-helps-design-canoe-that-allows-the-blind-to-paddle-solo-informatics-ph-d-student-mark-baldwin-profiled/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-news-paddling-toward-a-more-accessible-future-informatics-ph-d-student-mark-baldwin-profiled/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/huffington-post-on-maid-rating-apps-indias-entitled-baba-log-hit-new-low-phd-candidate-noopur-raval-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2018/12/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/professor-crista-lopes-named-ieee-fellow/
+SKIPPED (Low Info): https://ics.uci.edu/~ssirani/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/forbes-brain-based-tips-for-sharpening-your-focus-gloria-mark-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-conversation-with-a-limited-on-screen-presence-autistic-characters-have-emerged-in-another-medium-fan-fiction-by-rebecca-black/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/hispanic-engineer-uc-irvine-hopes-to-find-how-young-people-are-using-digital-technology-mimi-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2019/01/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-news-uci-led-study-finds-harry-potter-fan-fiction-challenges-cultural-stereotypes-of-autism-rebecca-black-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/motherboard-social-media-is-broken-but-you-should-still-report-hate-kat-lo-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/marketplace-your-car-is-not-self-driving-no-matter-how-much-it-seems-like-it-is-ph-d-candidate-hillary-abraham-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-applied-innovation-aviaa-merges-fleets-acquires-convolus/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-news-applied-innovation-aviaa-spreads-wings-into-irvine-and-beyond-gillian-hayes-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/medium-what-we-mean-when-we-say-abolishbigdata2019-by-roderic-crooks/
+SKIPPED (Low Info): https://ics.uci.edu/~neno/interests.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs295-2019-Spring/attacks_and_tools.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2019-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs295-2020-Spring/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2020-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs205-2021-Spring/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2021-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs205-2022-Spring/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2022-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs205-2023-Spring/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2023-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs205-2024-Spring/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2024-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs205-2025-Spring/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/allawards.html
+SKIPPED (Low Info): https://ics.uci.edu/~alfchen/teaching/cs134-2025-Fall/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~hziv/ooad/classes/index.htm
+SKIPPED (Low Info): https://ics.uci.edu/~hziv/ooad/intro_to_se/index.htm
+SKIPPED (Low Info): https://ics.uci.edu/~hziv/diss/conclusionpaper/conclusionpaper.html
+SKIPPED (Low Info): https://ics.uci.edu/~hziv/diss/intropaper/intropaper.html
+SKIPPED (Low Info): https://ics.uci.edu/~hziv/diss/abstractpaper/abstractpaper.html
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-uci-podcast-interview-with-bonnie-ruberg/
+SKIPPED (Low Info): https://ics.uci.edu/~sjcrane/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-esports-esports-lab-spotlight-craig-g-anderson/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-school-of-medicine-new-study-shows-crowdsourced-traffic-data-could-save-lives/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/abc-life-why-getting-better-with-money-starts-with-habits-not-spreadsheets-sean-young-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bonnie-nardi-recognized-with-lifetime-achievement-award/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/cnn-slack-is-ruining-my-life-and-i-love-it-gloria-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/npr-the-brighter-side-of-screen-time-mimi-ito-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/wired-reddits-manosphere-and-the-challenge-of-quantifying-hate-katherine-lo-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-news-outdated-gaming-equipment-gets-new-life/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-the-slackification-of-the-american-home-melissa-mazmanian-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-new-yorker-was-e-mail-a-mistake-gloria-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2019/08/
+SKIPPED (Low Info): https://code.ics.uci.edu/alumni/
+SKIPPED (Low Info): https://code.ics.uci.edu/students/resources-for-international-students/
+SKIPPED (Low Info): https://code.ics.uci.edu/students/additional-resources/
+SKIPPED (Low Info): https://code.ics.uci.edu/students/job-search-sites-resources/
+SKIPPED (Low Info): https://code.ics.uci.edu/students/career-planning/
+SKIPPED (Low Info): https://code.ics.uci.edu/employers/
+SKIPPED (Low Info): https://code.ics.uci.edu/
+SKIPPED (Low Info): https://code.ics.uci.edu/students/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/eight-habits-of-expert-software-designers-an-illustrated-guide/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/registration-open-for-the-2019-opioid-hackathon/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/global-sport-matters-diversity-inclusion-remain-a-problem-in-esports-industry-bo-ruberg-featured/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/edsurge-how-to-connect-with-your-kids-digital-interests-and-become-a-media-mentor-by-mimi-ito/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/boston-globe-amid-bc-suicide-case-a-look-at-how-texting-can-empower-abusers-gloria-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/npr-its-a-smartphone-life-more-than-half-of-u-s-children-now-have-one-mimi-ito-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/healthline-people-are-getting-their-stds-diagnosed-on-reddit-sean-young-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/harvard-business-review-how-to-overcome-your-checks-email-distraction-habit-gloria-mark-quoted/
+SKIPPED (Low Info): http://hai.ics.uci.edu/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~mcostafi/press.html
+SKIPPED (Low Info): https://ics.uci.edu/~mcostafi/teaching.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~mcostafi/index.html
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/creative-bloq-how-to-hone-your-design-skills-if-youre-a-developer/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/medium-reverse-engineer-an-awesome-grace-hopper-celebration-experience-by-ics-alumna-alegria-baquero/
+SKIPPED (Low Info): https://www.informatics.uci.edu/explore/department-seminars/seminar-info/?seminar_id=1021
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/microsoft-research-blog-2020-ada-lovelace-and-phd-fellowships-help-recipients-achieve-broad-research-and-educational-goals/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/inc-3-ways-to-unleash-high-impact-work-in-2020-gloria-mark-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-school-of-education-interview-with-informatics-associate-professor-kylie-peppler/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/north-carolina-public-radio-wunc-embodied-how-online-gaming-creates-real-life-love-tess-tanenbaum-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/yahoo-style-why-chasing-inbox-zero-is-a-waste-of-time-gloria-mark-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2020/03/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/techtarget-as-remote-work-tools-deploy-next-task-is-behavioral-judy-olson-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-the-art-of-socializing-during-a-quarantine-melissa-mazmanian-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/university-business-steinkuehler-to-keynote-academic-esports-conference/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2020/04/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/los-angeles-times-online-covid-19-diaries-are-helping-people-cope-theyre-also-a-research-gold-mine-sean-young-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-we-need-to-stop-trying-to-replicate-the-life-we-had-melissa-mazmanian-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/bold-making-distance-learning-work-by-gillian-hayes/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/university-of-california-news-newly-funded-covid-19-research-aims-to-protect-the-most-vulnerable-sean-young-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-podcast-melissa-mazmanian-on-work-and-parenting-in-the-digital-age/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/npr-get-a-comfortable-chair-permanent-work-from-home-is-coming-judith-olson-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-what-america-asks-of-working-parents-is-impossible-melissa-mazmanian-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/university-business-social-media-offers-students-a-lifeline-in-age-of-anxiety-mimi-ito-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/psych-central-teen-use-of-social-media-for-social-support-tips-to-optimize-benefits-mimi-ito-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-scientist-publishers-develop-inclusive-name-change-policies-tess-tanenbaum-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/designrush-these-10-software-engineering-schools-produce-the-best-it-professionals-in-the-us-uci-ics-ranked-1/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/informatics-ph-d-candidate-phoebe-chua-welcomed-as-an-affiliate-to-the-berkman-klein-center-for-internet-society-at-harvard-university/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/informatics-professors-ahmed-branham-receive-teach-access-curriculum-development-awards/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/comic-conhome-2020-geeked-re-storied-re-imagining-creative-privilege-ccel-tess-tanenbaum-panelist/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/cnn-permanent-wfh-sounds-great-but-its-harder-than-it-sounds-judith-olson-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/thrive-global-more-than-work-finding-focus-in-the-digital-age-gloria-mark-cited/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/salon-students-fear-for-their-data-privacy-after-university-of-california-invests-in-private-equity-firm/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/new-york-times-ideal-perfect-ultimate-what-drives-parents-to-seek-the-unattainable-melissa-mazmanian-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uc-it-blog-capstone-project-supports-student-affairs-and-student-success/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/professor-crooks-to-discuss-education-technology-in-working-class-communities-of-color/
+SKIPPED (Low Info): https://ics.uci.edu/~amirr1/
+SKIPPED (Low Info): https://unite.ics.uci.edu/
+SKIPPED (Low Info): https://www.stat.uci.edu/faculty/bin-nan/
+SKIPPED (Low Info): https://ics.uci.edu/~dutt/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-beall-applied-innovation-faculty-innovation-fellowship-program-welcomes-second-cohort-theresa-tanenbaum-named/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/romper-heres-why-your-kid-will-literally-not-stop-talking-about-roblox-mimi-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/lifewire-playing-video-games-may-be-good-for-your-mental-health-experts-say-mimi-ito-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2021/03/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/advanced-science-news-women-in-stem-you-should-know-theresa-tanenbaum-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/npr-too-much-focusing-is-draining-heres-a-better-strategy-gloria-mark-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/wunc-embodied-podcast-played-what-todays-generation-of-gamers-get-right-tess-tanenbaum-interviewed/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/cnn-these-companies-were-hybrid-before-the-pandemic-heres-how-they-make-it-work-judith-olson-quoted/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2025/01/16/three-paper-by-rajet-shawn-and-hamid-from-was-presented-and-esweek24/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2025/01/16/isca-by-hamid-accepted-at-ieee-design-test/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2025/01/16/ea2-by-hamid-presented-at-islped-24/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2023/10/23/fairwell-pizza-with-tomo/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2024/03/07/ipf-global-meeting-and-pizza-lunch-with-our-collaborators-from-tu-munich/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2025/01/16/embedded-systems-week-2024-with-prof-prabhat-mishra-and-prof-caio-batista-de-melo/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/author/pxchen/page/3/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/author/pxchen/page/2/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2024/07/08/back-to-the-future-by-danny-and-seal-by-hamid-was-presented-at-date-2024/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2024/07/08/kdtree-som-was-presented-by-shawn-at-glsvlsi-2024/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2024/07/08/one-paper-by-alex-and-prof-yongsoo-from-kookmin-university-was-presented-and-hotstorage24/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2025/06/11/end-of-the-2025-spring-quarter-potluck-party-at-the-dutts/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/category/uncategorized/page/3/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2019/11/12/hessle-free/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2020/02/20/end-of-the-f19-quarter-lunch-sushi-imari/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/author/maityb/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2020/08/11/stint-paper-by-michael-khuong-and-wongi-was-presented-at-acm-islped-2020/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2022/11/04/proswap-by-alex-deep-and-shawn-was-presented-at-2022-ieee-international-conference-on-networking-architecture-and-storage-nas/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2023/09/24/professor-dutt-received-certificate-of-appreciation-from-the-esweek-community-for-outstanding-service-as-esweek-steering-committee-chair-for-10-years/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/blog/page/6/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/blog/page/2/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/collaborators/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/projects/neuromorphic-computing/hirak2/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2018/10/23/multidisciplinary-collaborators-awarded-2-1m-to-improve-maternal-care-in-underserved-communities/
+SKIPPED (Low Info): https://ics.uci.edu/~levorato/teaching.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~levorato/index.html
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/rahmani2/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/ajan-drg-headshot/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2018/09/13/accepted-paper-in-globecom2018-conference/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/2018/10/13/won-first-place-at-student-design-contest-held-by-16th-international-system-on-chip-conference/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/jinwoohwang/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/projects/health-care-iot/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/hamidrezaalikhani/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/rajat/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/danny/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/group-members/img_8415/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/projects/self-aware-adaptive-computing/
+SKIPPED (Low Info): https://duttgroup.ics.uci.edu/projects/
+SKIPPED (Low Info): https://ics.uci.edu/~maheshmn/
+SKIPPED (Low Info): https://ics.uci.edu/~gabe/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/comicbook-cartoon-network-partners-with-raising-good-gamers-to-promote-positive-online-gaming/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/tech-learning-virtual-reality-teaching-successes-and-challenges-crista-lopes-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/popular-science-the-brilliant-10-the-most-innovative-up-and-coming-minds-in-science-stacy-branham-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2021/11/page/2/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-washington-post-the-world-of-minecraft-is-getting-taller-and-deeper-with-its-latest-update-kurt-squire-quoted/
+SKIPPED (Low Info): https://hack.ics.uci.edu/about
+SKIPPED (Low Info): https://hack.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-atlantic-what-if-we-just-stopped-being-so-available-melissa-mazmanian-interviewed/
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/stats5/
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/cs175/software.html
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/cs175/reference_texts.html
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/cs175/schedule.html
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/academic_integrity
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/cs274/books.html
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/courses/cs274/syllabus.html
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=ecotoxicology
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=soil
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=pixel
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=landcover
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=forest
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Small%20Molecule
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Molecular%20Similarity
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=safety
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Toxicity
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=fairness
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Bengali
+SKIPPED (Low Info): https://archive.ics.uci.edu/dataset/769/turkish+user+review+dataset
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=entrepreneurship
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Sentiment%20analysis
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Multivariate%20regression
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Imbalanced%20classes
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Academic%20performance
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=electroencephalogram%20(EEG)
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=seizure
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=epilepsy
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=meta-heuristic%20search
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Sleep
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=maternal%20health
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=cancer
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=diagnosis
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=smart%20grids
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=spatiotemporal
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=spatial
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=traffic%20flow%20prediction
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=data%20drift
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=gyroscope
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=covid-19
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=cyber%20security
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=Intrusion%20detection
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=energy
+SKIPPED (Low Info): https://archive-beta.ics.uci.edu/
+SKIPPED (Low Info): https://archive.ics.uci.edu/contact
+SKIPPED (Low Info): https://archive.ics.uci.edu/citation
+SKIPPED (Low Info): https://archive.ics.uci.edu/about
+SKIPPED (Low Info): https://archive.ics.uci.edu/contribute/linking
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=automobile
+SKIPPED (Low Info): https://archive.ics.uci.edu/datasets?search=&Keywords=sales
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/padhraic_smyth_contact.html
+SKIPPED (Low Info): https://ics.uci.edu/~smyth/psmyth_short_bio.html
+SKIPPED (Near-Duplicate): http://archive.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/softwares/benchmarks/Mmap_Problem_Sets/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/softwares/benchmarks/Mpe_Problme_Sets/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/books/materials.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-171/spring-99/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-280/spring-99/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/fall-99/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/fall-00/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2000/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/fall-00/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-270a/spring-01/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-270a/spring-01/home-work.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-270a/spring-01/announcements.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2001/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2001/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2001/announcements.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/fall-2001/grades.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/fall-2001/projects.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/fall-2001/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/fall-2001/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/fall-2001/announcements.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-2002/course-letter-grades.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-2002/exams.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-2002/grades.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-2002/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-2002/schedule.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-6a/winter-2002/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-280/spring-2002/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/fall-02/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2003/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-270a/winter-03/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-280/spring-2003/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-04/exams.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-04/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-6a/winter-04/schedule.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-6a/winter-04/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-280/spring-2004/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/books/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2004/modeling-projects.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2004/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2004/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2004/grades.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-171/fall-04/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-270a/fall-04/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-270a/fall-04/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-270a/fall-04/announcements.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/spring-05/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/spring-05/homework.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/spring-05/index.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-271/fall-06/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-171/fall-06/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/books.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/projects.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/links.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/software.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/homework.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/Fall-2007/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-295/spring-2007/genetic.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/spring-2007/project.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/spring-2007/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/spring-2007/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-295/spring-2008/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-08/project/old_index.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-271/fall-08/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-08/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-08/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-08/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-08/announcements.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275a/spring-2009/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/spring-2009/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/spring-2009/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/fall-09/software.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/fall-09/homework.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/fall-09/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/winter-2010/projects.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/winter-2010/announcements.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-175a/winter-2010/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/winter-2010/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/winter-2010/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/winter-2010/grades.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-179/spring-2010/Projects_list.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-179/spring-2010/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-179/spring-2010/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-179/spring-2010/grades.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2010/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2010/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/fall-2010/homework.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-295/winter-2011/index.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2011/Projects_list.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2011/lecture-notes.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-175a/spring-2011/index.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/spring-11/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/spring-11/software.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/spring-11/homework.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/spring-11/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-12/grades.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-12/lecture-notes.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-12/homework.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-12/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-271/fall-12/announcements.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-271/fall-12/index.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/spring-13/readings.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/spring-13/software.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/spring-13/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-295/fall-2013/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275b/fall-14/software.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/fall-14/index.shtml
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-275a/winter-2016/code/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275a/winter-2016/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275b/spring-17/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-276/spring-18/software.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/spring-18/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/spring-19/readings.shtml
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-276/spring-19/software.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/spring-19/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275/fall-2020/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/winter-2020/readings.shtml
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-276/winter-2020/software.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/winter-2020/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-295cr/spring-2021/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/fall-2021/readings.shtml
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-276/fall-2021/software.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/fall-2021/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-295cr/2021-22_Q2_Winter/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-275/fall-2022/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-295cr/2022-23_Q2_Winter/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/2023-24_Q2-Winter/readings.shtml
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/courses/ics-276/2023-24_Q2-Winter/software.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/2023-24_Q2-Winter/index.shtml
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/courses/ics-276/fall_2024/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/awards.html
+SKIPPED (Low Info): https://ics.uci.edu/~frost/
+SKIPPED (Low Info): https://ics.uci.edu/~kkask/
+SKIPPED (Low Info): https://ics.uci.edu/~willmlam/teaching/
+SKIPPED (Low Info): https://ics.uci.edu/~willmlam/courses/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/talks/tutorial-ijcai2013/
+SKIPPED (Low Info): https://ics.uci.edu/~dechter/talks/lifted-minischool-2014/
+SKIPPED (Low Info): https://ics.uci.edu/~ihler/personal/
+SKIPPED (Low Info): https://ics.uci.edu/~ihler/bio.html
+SKIPPED (Low Info): https://ics.uci.edu/~ihler/code/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~ihler/code/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~ihler/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~johutchi/
+SKIPPED (Low Info): https://ics.uci.edu/~asuncion/index2.htm
+SKIPPED (Low Info): https://ics.uci.edu/~nnavarol/
+SKIPPED (Low Info): https://ics.uci.edu/~jihyunp/
+SKIPPED (Low Info): https://ics.uci.edu/~galbraic/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~smyth/index.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~dechter/
+SKIPPED (Low Info): https://aiclub.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/gillian-hayes-elected-to-2022-cra-board-of-directors/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/uci-podcast-jonathan-alexander-takes-his-own-advice/
+SKIPPED (Low Info): https://ics.uci.edu/~wscacchi/Papers/Software_Process_Redesign/
+SKIPPED (Low Info): https://ics.uci.edu/~ejw/
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_dinitto.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_reddy.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_day.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_segall.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_mathon.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_reiss.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_isaacson.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_rifkin.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_carzaniga.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/abstracts/abs_rosenblum.html
+SKIPPED (Low Info): https://ics.uci.edu/~irus/wisen/wisen98/registration.html
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/process.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/missing.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/collaba.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/impact.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/collabd.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/success.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/context.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/current.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/founder.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/project.htm
+SKIPPED (Low Info): https://ics.uci.edu/~fielding/talks/ssapache/virtual.htm
+SKIPPED (Low Info): https://www.stat.uci.edu/faculty/veronica-berrocal/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2022/07/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/edsurge-teaching-digital-native-college-students-who-understand-tiktok-but-not-microsoft-excel-mimi-ito-quoted/
+SKIPPED (Low Info): https://ics.uci.edu/~aalshayb/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/edsurge-how-gaming-creates-opportunities-for-learning-that-endures-mimi-ito-interviewed/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/armchair-expert-with-dax-shepard-interview-gloria-mark/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-new-york-times-how-to-focus-like-its-1990-gloria-mark-mentioned/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/future-squared-with-steve-glaveski-podcast-extend-your-attention-span-with-gloria-mark-gloria-mark-interviewed/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/salon-like-a-frog-in-boiling-water-how-big-tech-stole-our-ability-to-focus/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/usa-today-opinion-will-tiktok-be-banned-maybe-it-should-be-for-kids-at-least-gloria-mark-interviewed-quoted/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/ics-and-engineering-schools-induct-six-into-2023-hall-of-fame/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/kuci-ask-a-leader-podcast-bandwidth-guard-it-like-your-life-depends-on-it-gloria-mark-interviewed/
+SKIPPED (Low Info): https://dgillen.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/2023/07/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/very-top-footer-menu-items/news/page/29/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/the-list-tv-3-ways-to-stay-social-while-social-distancing-featuring-melissa-mazmanian/
+SKIPPED (Low Info): https://ics.uci.edu/~marios/
+SKIPPED (Low Info): https://accessibility.ics.uci.edu/index.html
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/time-magazine-why-everyones-worried-about-their-attention-span-and-how-to-improve-yours-gloria-mark-interviewed/
+SKIPPED (Low Info): https://ics.uci.edu/~iftekha/
+SKIPPED (Low Info): https://ics.uci.edu/~andre/
+SKIPPED (Near-Duplicate): http://www.informatics.uci.edu/very-top-footer-menu-items/news/
+SKIPPED (Near-Duplicate): http://www.informatics.uci.edu/site-map/
+SKIPPED (Low Info): https://ics.uci.edu/~emilyo/alien-mastermind/
+SKIPPED (Low Info): https://ics.uci.edu/~emilyo/SimSE/
+SKIPPED (Low Info): https://ics.uci.edu/~feldman/
+SKIPPED (Low Info): http://www.informatics.uci.edu/brochure-tiles/
+SKIPPED (Low Info): https://www.informatics.uci.edu/explore/
+SKIPPED (Low Info): https://mhcid.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/graduate-resources/program-details/phd-software-engineering-details/
+SKIPPED (Low Info): https://www.informatics.uci.edu/grad/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/undergrad/courses/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/undergrad/special-opportunities/
+SKIPPED (Low Info): http://hai.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/grad/student-profiles/emory-edwards/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/people/
+SKIPPED (Low Info): https://luci.ics.uci.edu/
+SKIPPED (Low Info): http://riscit.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://www.informatics.uci.edu/contact/
+SKIPPED (Low Info): https://cs.ics.uci.edu/undergraduate-programs/
+SKIPPED (Low Info): https://stat.ics.uci.edu/research-areas/
+SKIPPED (Low Info): https://stat.ics.uci.edu/distinguished-lecture-series/
+SKIPPED (Low Info): https://www.stat.uci.edu/m-s-ph-d-in-statistics/
+SKIPPED (Low Info): http://vision.ics.uci.edu/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~projects/cert/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/tag/melissa-tullues/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=sholeh-satari
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=naima-louridi
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=jamie-lackey
+SKIPPED (Low Info): https://ics.uci.edu/~djpatter/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/03/2013_kimsloan/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/03/2013_fowlkescareer/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/03/spring-2013/
+SKIPPED (Low Info): http://isi-buds.ics.uci.edu/index.html
+SKIPPED (Low Info): https://www.stat.uci.edu/xu-receives-asa-nonparametric-statistics-section-student-paper-award/
+SKIPPED (Low Info): https://www.stat.uci.edu/amstat-news-celebrating-women-in-statistics-2021-annie-qu-mentioned/
+SKIPPED (Low Info): https://ics.uci.edu/~babaks/BWR/Home.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~babaks/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~jfoulds/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/02/2014_improver/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/06/center-member-smyth-to-head-new-data-science-initiative/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/02/anandkumar-receives-early-career-sloan-research-fellowship/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/11/eric-mjolsness-named-american-association-for-the-advancement-of-science-fellow/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/09/2014_google/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2015/01/anima-anandkumar-receives-afosr-young-investigator-award/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2015/02/alexander-ihler-gives-short-course-on-approximate-inference-at-mlss/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2016/02/anandkumar-receives-google-research-award/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2016/03/southern-california-machine-learning-symposium/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2016/11/phd-research-fellowships/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2017/06/singh-talk-oc-acm-chapter/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2017/11/new-faculty-member-eric-sudderth/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2017/11/phd-students-win-best-poster-awards/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2019/09/920/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2020/01/upgrading-the-uci-ml-repository/
+SKIPPED (Low Info): https://ics.uci.edu/~scottcb/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2020/09/rina-dechter-receives-ai-journals-classic-paper-award/
+SKIPPED (Low Info): https://ics.uci.edu/~jingz31/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2021/07/new-book-from-pierre-baldi-on-the-sciences-and-deep-learning/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2022/02/cml-faculty-elected-as-aaas-fellows/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2022/07/cml-researchers-win-naacl-paper-award/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2022/11/ai-and-ml-faculty-openings-at-uci/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2022/09/jyothi-named-a-rising-star-by-n2women/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2022/12/cml-at-neurips-2022/
+SKIPPED (Low Info): https://ics.uci.edu/~deyingk/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2024/05/outstanding-student-paper-award-at-aistats-2024/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2023/12/best-paper-award-at-neurips-2023/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/2025/01/winter-2025/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/aiml/page/2/
+SKIPPED (Low Info): https://cml.ics.uci.edu/subscribe/
+SKIPPED (Low Info): https://cml.ics.uci.edu/courses/
+SKIPPED (Low Info): https://cml.ics.uci.edu/aiml/ml-reading-group/
+SKIPPED (Low Info): https://cml.ics.uci.edu/aiml/ml-distinguished-speakers/
+SKIPPED (Low Info): https://cml.ics.uci.edu/aiml/cml-seminar-live-stream/
+SKIPPED (Low Info): https://cml.ics.uci.edu/alumni/
+SKIPPED (Low Info): https://cml.ics.uci.edu/faculty/
+SKIPPED (Low Info): https://cml.ics.uci.edu/category/news/page/10/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2006/10/2006_baldichancellor/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2006/10/2006_netflix/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2006/10/2006_cmlnips/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/01/2007_jainbestpaper/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/04/2007_baldiaaai/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/08/2007_jcdl/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/08/2007_igbgrant/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/08/2007_studentscomp/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/category/news/page/9/?page=events&subPage=dss_schedule
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/08/2007_speakerseries0708/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/12/2007_nips/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/category/news/page/8/?page=events&subPage=aiml
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/12/2007_yahoogift/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/12/2007_honors/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/category/news/page/8/?page=people&subPage=faculty
+SKIPPED (Low Info): https://cml.ics.uci.edu/2007/12/2007_newfaculty/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2008/09/2008_newmanimls/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/category/news/page/8/?page=events&subPage=dss_schedule
+SKIPPED (Low Info): https://cml.ics.uci.edu/2008/09/2008_speakerseries0809/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2008/09/2008_lhc/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2008/09/2008_networkgrant/
+SKIPPED (Low Info): http://vision.ics.uci.edu/sccv/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2008/10/2008_vision/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2008/12/2008_fowlkesgrant/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2009/02/2009_yahoogift2/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2009/04/2009_fellowships/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2009/06/2009_smythaward/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2009/10/2009_li2009/
+SKIPPED (Near-Duplicate): https://cml.ics.uci.edu/category/news/page/7/?page=events&subPage=dss_schedule
+SKIPPED (Low Info): https://cml.ics.uci.edu/2009/10/2009_speakerseries0910/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2009/10/2009_marr/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2010/04/2010_newmaneager/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2010/05/2010_vandykims/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2010/05/2010_lixieintel/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2010/06/2010_baldicaianiello/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2010/07/2010_smythaaai/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2010/09/2010_wellingeccv/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2011/09/2011_wellingpami/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2011/09/2011_smythkdd/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2011/09/2011_fellowships/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2012/07/2012_icmlbestpaper/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2012/07/2012_fellowships/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/03/2013_xielinih/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/08/2013_padhraicuai/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/08/2013_pfbaldi/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2013/08/2013_anima/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/02/2014_asterixdb/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/02/2014_acmfellows/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/07/anima-anandkumar-gives-short-course-at-mlss/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/08/2014_deep/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/08/2014_aaai/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2014/08/center-member-michael-lee-uses-crowdsourcing-to-predict-world-cup-outcome/
+SKIPPED (Low Info): https://ics.uci.edu/~sudderth/bio/
+SKIPPED (Low Info): https://ics.uci.edu/~sudderth/bnpCVPR12/resources.html
+SKIPPED (Low Info): https://ics.uci.edu/~sudderth/bnpCVPR12/materials.html
+SKIPPED (Low Info): https://ics.uci.edu/~sudderth/courses/
+SKIPPED (Low Info): http://vision.ics.uci.edu/pocv2012/people.html
+SKIPPED (Low Info): http://vision.ics.uci.edu/pocv2012/program.html
+SKIPPED (Low Info): http://vision.ics.uci.edu/people/6.html
+SKIPPED (Low Info): https://ics.uci.edu/~fowlkes/bioshape/batvis/Viewer/index.html
+SKIPPED (Low Info): https://cml.ics.uci.edu/2019/09/research-funding-from-qualcomm-ai-ml-research-labs/
+SKIPPED (Low Info): https://cml.ics.uci.edu/2020/02/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model/
+SKIPPED (Low Info): https://cml.ics.uci.edu/home/about-us/
+SKIPPED (Low Info): https://hpi.ics.uci.edu/hpiuci-2022-grand-opening-event/
+SKIPPED (Low Info): https://tutoring.ics.uci.edu/
+SKIPPED (Low Info): https://www.stat.uci.edu/
+SKIPPED (Low Info): https://tutoring.ics.uci.edu/individual-tutoring/
+SKIPPED (Low Info): https://oai.ics.uci.edu/oai-tutoring/
+SKIPPED (Low Info): https://summeracademy.ics.uci.edu/contact-us/
+SKIPPED (Low Info): https://summeracademy.ics.uci.edu/meet-the-team/
+SKIPPED (Low Info): https://summeracademy.ics.uci.edu/application/
+SKIPPED (Low Info): https://summeracademy.ics.uci.edu/agenda/
+SKIPPED (Low Info): https://oai.ics.uci.edu/programs-resources/
+SKIPPED (Low Info): https://oai.ics.uci.edu/about-us/
+SKIPPED (Low Info): https://stat.ics.uci.edu/undergraduate-programs/
+SKIPPED (Low Info): https://www.stat.uci.edu/faculty/lee-kucera/
+SKIPPED (Low Info): https://www.stat.uci.edu/faculty/koko-gulesserian/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/brigitte-baldi/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/jessica-utts/
+SKIPPED (Low Info): https://www.stat.uci.edu/faculty/wenzhuo-zhou/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/zhaoxia-yu/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/hal-stern/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/weining-shen/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/tianchen-qian/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/vladimir-minin/
+SKIPPED (Low Info): http://www.stat.uci.edu/faculty/veronica-berrocal/
+SKIPPED (Low Info): https://www.stat.uci.edu/chairs-message/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=kareem-ahmed
+SKIPPED (Low Info): https://ics.uci.edu/~isaac/
+SKIPPED (Low Info): http://emj.ics.uci.edu
+SKIPPED (Near-Duplicate): https://ics.uci.edu/2022/01/03/health-and-science-ramesh-jain/
+SKIPPED (Low Info): https://ics.uci.edu/~dhirschb/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=lubomir-bic
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=alex-thornton
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=kalev-kask
+SKIPPED (Low Info): https://ics.uci.edu/~jingz31/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~jwongma/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/tag/disaster-science/
+SKIPPED (Low Info): https://ics.uci.edu/~staherij/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~rgangam/
+SKIPPED (Low Info): https://ics.uci.edu/~vazirani/opapers.html
+SKIPPED (Low Info): https://ics.uci.edu/~vazirani/F.html
+SKIPPED (Low Info): https://ics.uci.edu/~vazirani/WNT%20Algorytmy%20aproksymacyjne.htm
+SKIPPED (Low Info): https://ics.uci.edu/~mikes/papers/TheoryGPT2025/index.html
+SKIPPED (Low Info): https://ics.uci.edu/~majumder/contrastcode/codecontrast.html
+SKIPPED (Low Info): https://ics.uci.edu/~majumder/teach.html
+SKIPPED (Low Info): https://ics.uci.edu/~majumder/students-N.html
+SKIPPED (Low Info): https://ics.uci.edu/~majumder/VRcourse.htm
+SKIPPED (Low Info): https://ics.uci.edu/~majumder/project.html
+SKIPPED (Low Info): https://ics.uci.edu/~eppstein/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/tag/zybook/
+SKIPPED (Low Info): https://ics.uci.edu/~wayne/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=habiba-farrukh
+SKIPPED (Low Info): https://ics.uci.edu/~mbdillen/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/vigilia/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/pingpong/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/iotcheck/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/fidelius/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/software_page/views/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/software_page/irvine-research-java-compiler/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/software-relaxed-mm/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/software_page/
+SKIPPED (Low Info): http://plrg.ics.uci.edu/students/
+SKIPPED (Low Info): https://ics.uci.edu/~ardalan/courses.html
+SKIPPED (Low Info): https://ics.uci.edu/~ardalan/students.html
+SKIPPED (Near-Duplicate): https://ics.uci.edu/~ardalan/index.html
+SKIPPED (Low Info): https://mcs.ics.uci.edu/policies/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=anto-park
+SKIPPED (Near-Duplicate): https://ics.uci.edu/?people=jaclyn-kung
+SKIPPED (Near-Duplicate): https://ics.uci.edu/tag/pranav-agrawal/
+SKIPPED (Near-Duplicate): https://ics.uci.edu/tag/isha-manish-patel/
+SKIPPED (Low Info): https://mcs.ics.uci.edu/cost-financial-aid/
+SKIPPED (Low Info): https://mcs.ics.uci.edu/mcs-vs-mscs/
+SKIPPED (Low Info): https://mcs.ics.uci.edu/capstone-project/
+SKIPPED (Low Info): https://cs.ics.uci.edu/research-areas/
+SKIPPED (Low Info): https://ics.uci.edu/flipbook/project-expo-2025
+SKIPPED (Low Info): https://hpi.ics.uci.edu/alumni/
+SKIPPED (Low Info): https://hpi.ics.uci.edu/students/
+SKIPPED (Low Info): https://hpi.ics.uci.edu/supervisors/
+SKIPPED (Near-Duplicate): https://tad.ics.uci.edu/site/index
+SKIPPED (Low Info): https://www.stat.uci.edu/what-is-statistics/
+SKIPPED (Low Info): https://cs.ics.uci.edu/seminar-series/
+SKIPPED (Low Info): https://industryshowcase.ics.uci.edu/2019-industryshowcase/
+SKIPPED (Low Info): https://industryshowcase.ics.uci.edu/2020-industryshowcase/
+SKIPPED (Low Info): https://industryshowcase.ics.uci.edu/2021-industryshowcase/
+SKIPPED (Low Info): https://www.stat.uci.edu/contact-the-department/
+SKIPPED (Low Info): https://stat.ics.uci.edu/contact-us/
+SKIPPED (Low Info): https://stat.ics.uci.edu/seminar-series/
+SKIPPED (Low Info): https://stat.ics.uci.edu/graduate-statistics-programs/
+SKIPPED (Low Info): https://cml.ics.uci.edu/
+SKIPPED (Low Info): https://create.ics.uci.edu/
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/SW/SW.html
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/GenomicPapers.htm
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/ICS174/Assignments.html
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/ics171/homeworks/
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/ics171/Lectures/
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/ics171/syllabus/
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/Ethics.htm
+SKIPPED (Low Info): https://ics.uci.edu/~kibler/JavaTexts.html
+SKIPPED (Low Info): https://capstone.cs.uci.edu/
